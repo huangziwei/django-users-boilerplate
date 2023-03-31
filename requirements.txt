@@ -1,0 +1,10 @@
+django
+django-allauth
+django-crispy-forms
+crispy-bootstrap5
+isort
+black
+whitenoise
+environs[django]
+psycopg2-binary
+gunicorn
